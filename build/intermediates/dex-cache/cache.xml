@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pc\Downloads\sinch-android-rtc-3.4.3\sinch-android-rtc-3.4.3\samples\sinch-rtc-sample-messaging\libs\sinch-android-rtc-3.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c8698fa5414b110fc37c13eddef42711e14e6fd1">
+        <dex dex="C:\Users\pc\Downloads\sinch-android-rtc-3.4.3\sinch-android-rtc-3.4.3\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.4.3-7abe01da93604acc604c1805f736ba1e62995353.jar" />
+    </item>
+
+</items>
